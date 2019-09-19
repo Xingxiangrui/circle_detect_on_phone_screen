@@ -1,8 +1,7 @@
 # circle_detect_on_phone_screen
 circle_detect_on_phone_screen
-
-代码地址：https://github.com/Xingxiangrui/circle_detect_on_phone_screen
-
+项目简介：
+https://blog.csdn.net/weixin_36474809/article/details/99656161
 目录
 
 辅点检测程序说明
